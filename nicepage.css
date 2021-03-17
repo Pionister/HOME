@@ -32877,7 +32877,6 @@ a.u-link.u-text-hover-grey-90:hover {
 
 .u-header .u-group-1 {
   min-height: 98px;
-  height: auto;
   margin-top: 0;
   margin-bottom: 1px;
 }
@@ -32896,10 +32895,6 @@ a.u-link.u-text-hover-grey-90:hover {
   max-height: 277px;
 }
 @media (max-width: 1199px) {
-  .u-header .u-group-1 {
-    height: auto;
-  }
-
   .u-header .u-container-layout-1 {
     padding-top: 30px;
     padding-bottom: 30px;
